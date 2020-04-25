@@ -1,7 +1,6 @@
 {
   "version": 2,
-  "name": "docs",
-  "alias": "docs.commerce-ui.com",
+  "name": "e-comdocs",
   "builds": [
     {
       "src": "next.config.js",
